@@ -1,2 +1,4 @@
-# budget-app
-Budgeting web app for personal website
+# HomeSite
+Full stack project for personal & home uses
+- Budgeting
+- Home Automation
