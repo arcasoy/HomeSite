@@ -12,9 +12,12 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "^0.29.0",
-    "morgan": "~1.9.1"
+    "morgan": "~1.9.1",
+    "plaid": "^10.5.0"
   },
   "devDependencies": {
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.3",
     "nodemon": "^2.0.16"
   }
 }
